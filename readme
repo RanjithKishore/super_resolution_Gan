@@ -2,4 +2,5 @@ This is an trail with srgan illustrated in the packt book about projects on gans
 I have tried super resolving from 32*32 to 256*256.The results achieved were moderate.
 I have uploaded the weights after training for 27099 epochs for both the discriinator and generator.
 The images in the repo are outputs obtained.
+The training has been done using colab.
 
